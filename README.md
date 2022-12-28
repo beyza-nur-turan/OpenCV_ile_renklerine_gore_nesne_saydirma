@@ -1,1 +1,1 @@
-# OpenCV_ile_renklerine_g-re_nesne_saydirma
+# OpenCV_ile_renklerine_gore_nesne_saydirma
